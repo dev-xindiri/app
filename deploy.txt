@@ -1,0 +1,1 @@
+Just a text to test auto deploy on wolke.host to trigger deployment
